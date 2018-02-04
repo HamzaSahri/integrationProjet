@@ -1,5 +1,5 @@
 <?php
-	$test = "test jenkins ok";
+	$test = "test jenkins lancement auto";
 	echo $test;
 
 ?>
