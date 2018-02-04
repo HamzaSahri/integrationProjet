@@ -1,4 +1,5 @@
 <?php
-	echo "test jenkins ok";
+	$test = "test jenkins ok";
+	echo $test;
 
 ?>
